@@ -18,16 +18,16 @@ BANG is a Python package dedicated to analysis, simulation, and control of Boole
 
 ## Installation
 
-BANG is available on PyPI and can be installed using pip. Ensure you have Python 3.10 or higher.
+BANG can be installed using pip. Ensure you have Python >=3.10,<3.14.
 
 ```bash
 pip install bang-gpu
 ```
 
-For the latest development version, you can clone the repository and install it manually. First you need to clone the repository:
+For the version used by the associated anonymous submission, clone this repository and install it manually:
 
 ```bash
-git clone https://github.com/zpp20/bang.git
+git clone https://github.com/anonimized2026aistats/bang.git
 cd bang
 ```
 
